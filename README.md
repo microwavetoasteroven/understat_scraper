@@ -2,6 +2,8 @@
 
 A Python script that scrapes and processes football match data from [Understat](https://understat.com/), specifically focusing on shot data for a given game ID.
 
+Inspired by [McKay Johns](https://www.youtube.com/watch?v=IsR5FrjNmro)
+
 ## Features
 
 - Fetches shot data from Understat using a game ID.
